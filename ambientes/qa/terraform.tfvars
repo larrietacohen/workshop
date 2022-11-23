@@ -1,0 +1,8 @@
+env = "qa"
+vpc = "10.10.0.0/16"
+public-net1 = "10.10.0.0/20"
+public-net2 = "10.10.16.0/20"
+private-net1 = "10.10.32.0/20"
+private-net2 = "10.10.48.0/20"
+ami = "ami-08c40ec9ead489470"
+instance_type = "t2.micro"
